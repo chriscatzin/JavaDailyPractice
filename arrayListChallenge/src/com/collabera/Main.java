@@ -2,6 +2,12 @@ package com.collabera;
 
 import java.util.Scanner;
 
+/***********************************
+ * Copright: Christopher Catzin
+ * August 27, 2019
+ * Contact List Database using Array List
+ */
+
 public class Main {
 
     private static Scanner scanner = new Scanner(System.in);
