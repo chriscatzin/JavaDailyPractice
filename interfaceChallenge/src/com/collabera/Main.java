@@ -68,7 +68,7 @@ public class Main {
     }
 
     public static void saveObject(ISaveable objectToSave) {
-        for(int i=0; i<objectToSave.write().size(); i++) {
+        for (int i = 0; i < objectToSave.write().size(); i++) {
             System.out.println("Saving " + objectToSave.write().get(i) + " to storage device");
         }
     }
@@ -77,3 +77,4 @@ public class Main {
         ArrayList<String> values = readValues();
         objectToLoad.read(values);
     }
+}

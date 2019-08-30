@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa362c8a-99af-45ae-8ad6-25e5f9d1ed87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/collabera/ISaveable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collabera/Player.java" afterDir="false" />
-    </list>
+    <list default="true" id="fa362c8a-99af-45ae-8ad6-25e5f9d1ed87" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,17 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/collabera/Player.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/Inner-and-Abstract-Classes-&amp;-Interfaces-Interfaces-Challenge-Part-1-Source-code/src/com/timbuchalka/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="78" selection-end-column="5" />
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -121,6 +109,10 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -144,6 +136,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -204,15 +201,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/Inner-and-Abstract-Classes-&amp;-Interfaces-Interfaces-Challenge-Part-1-Source-code/src/com/timbuchalka/Player.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$USER_HOME$/Downloads/Inner-and-Abstract-Classes-&amp;-Interfaces-Interfaces-Challenge-Part-1-Source-code/src/com/timbuchalka/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" selection-start-line="2" selection-end-line="78" selection-end-column="5" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/Inner-and-Abstract-Classes-&amp;-Interfaces-Interfaces-Challenge-Part-1-Source-code/src/com/timbuchalka/Player.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/collabera/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -223,8 +220,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/collabera/Player.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
